@@ -71,3 +71,13 @@ A few utility functions used for understanding partition stats and skews are pro
 
 ___
 
+
+
+
+
+####spark
+
+
+https://stackoverflow.com/questions/39397652/convert-scala-list-to-dataframe-or-dataset
+
+https://www.cnblogs.com/rxingyue/p/7113235.html
