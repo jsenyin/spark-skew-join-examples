@@ -77,6 +77,15 @@ ___
 
 ####spark
 
+Spark 学习系列代码
+1.Spark学习-RDD编码
+http://blog.csdn.net/a123demi/article/details/71713596
+2.Spark学习-统计文本单词出现次数
+http://blog.csdn.net/a123demi/article/details/71453594
+3.Spark Streaming+kafka订单实时统计实现
+http://blog.csdn.net/a123demi/article/details/72821348
+
+
 - 获取数据
 https://www.cnblogs.com/kangoroo/p/7728636.html
 
