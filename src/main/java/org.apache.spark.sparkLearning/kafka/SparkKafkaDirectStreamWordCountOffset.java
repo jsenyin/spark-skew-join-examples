@@ -53,7 +53,7 @@ import org.apache.spark.streaming.Durations;
 public final class SparkKafkaDirectStreamWordCountOffset {
     private static final Pattern SPACE = Pattern.compile(" ");
 
-    private static final String brokers = "10.32.19.41:9092,10.32.19.42:9092,10.32.19.43:9092";
+    private static final String brokers = "nq009:9092";
     private static final String topics = "topTest1,topTest2";
 
     @SuppressWarnings("deprecation")

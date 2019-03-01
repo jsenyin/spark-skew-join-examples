@@ -17,7 +17,7 @@ package org.apache.spark.ml
 
 import org.apache.spark.ml.classification.LogisticRegression
 import org.apache.spark.ml.param.ParamMap
-import org.apache.spark.mllib.linalg.{Vector, Vectors}
+import org.apache.spark.ml.linalg.{Vector, Vectors}
 import org.apache.spark.sql.{Row, SQLContext}
 import org.apache.spark.{SparkConf, SparkContext}
 
